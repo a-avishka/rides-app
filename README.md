@@ -9,8 +9,7 @@
 
 [![Rides](https://i.ibb.co/qB1Jhq6/https-drive-google.png)](https://drive.google.com/open?id=1a_T6umo1Dwg-IyCrr60xPb4-RCvQ2mIJ "Rides")
 
-[
-[
+
 
 A web app which allows customers to book vehicles for a certain period of time and this app also allows the manager to manage the vehicles and schedules. The program is built using React for the front-end , Spring for the back-end and mySql as the database.
 
