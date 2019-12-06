@@ -4,7 +4,7 @@
 [![Rides](https://i.ibb.co/2tnpD3q/https-drive-google.jpg)](https://drive.google.com/open?id=1HDDivz-eiq88z3wf6jcz0GspNCaoV3aQ "Rides")
 
 
-[![Rides](https://i.ibb.co/vdCsBXx/https-drive-google.png)](https://drive.google.com/open?id=1NAI5WJEuffNPCyfPpcsWHSzmuysZDPaA "Rides")
+
 
 
 [![Rides](https://i.ibb.co/qB1Jhq6/https-drive-google.png)](https://drive.google.com/open?id=1a_T6umo1Dwg-IyCrr60xPb4-RCvQ2mIJ "Rides")
