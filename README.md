@@ -10,4 +10,4 @@ A web app which allows customers to book vehicles for a certain period of time a
 
 ## Setup and Usage
 
-Download the zip file, extract it. To run the back-end open the folder as a IntelliJ project and run the Spring program and for the front-end open the app folder in the extracted folder in a code editor (VsCode preferred) and run the app by going to the terminal and entering `npm start`. Hopefully now you should be good to go!
+Download the zip file, extract it. To run the back-end open the folder as a IntelliJ project and run the Spring program and for the front-end open the app folder in the extracted folder in a code editor (VsCode preferred) and run the app by going to the terminal and entering `npm start`. Hopefully now you should be good to go! 
